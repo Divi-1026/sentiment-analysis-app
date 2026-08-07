@@ -1,0 +1,5 @@
+streamlit
+vaderSentiment
+pypdf
+pandas
+scikit-learn
