@@ -1,5 +1,6 @@
 streamlit
-vaderSentiment
-pypdf
 pandas
 scikit-learn
+pypdf
+vaderSentiment
+plotly
